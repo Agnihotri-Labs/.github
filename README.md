@@ -1,35 +1,36 @@
 <div align="center">
 
-# ⚡ AGNIHOTRI LABS
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:111827,100:38BDF8&height=220&section=header&text=AGNIHOTRI%20LABS&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=Build.%20Automate.%20Secure.&descAlignY=62&descSize=18&descColor=38BDF8" width="100%"/>
 
-### Build. Automate. Secure.
+<br>
 
-<p>
-  <strong>AI · Software Engineering · Automation · Cybersecurity</strong>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Engineering+systems+that+solve+real+problems.;AI+%7C+Automation+%7C+Software+%7C+Security;From+idea+%E2%86%92+prototype+%E2%86%92+production." />
 
-<p>
-  <a href="https://agnihotrilabs.tech">
-    <img src="https://img.shields.io/badge/Website-agnihotrilabs.tech-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" />
-  </a>
-  <a href="https://github.com/Agnihotri-Labs">
-    <img src="https://img.shields.io/badge/GitHub-Agnihotri--Labs-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br><br>
+
+<a href="https://agnihotrilabs.tech">
+<img src="https://img.shields.io/badge/WEBSITE-AGNIHOTRILABS.TECH-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8&labelColor=111827" />
+</a>
+
+<a href="https://github.com/Agnihotri-Labs">
+<img src="https://img.shields.io/badge/GITHUB-AGNIHOTRI--LABS-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827" />
+</a>
 
 </div>
 
+<br>
+
 ---
 
-## 🧪 What is Agnihotri Labs?
-
-**Agnihotri Labs** is an independent technology studio focused on building practical software, intelligent systems, automation tools, and security-focused solutions.
-
-We turn ideas into working technology.
+<div align="center">
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   IDEA  →  ENGINEER  →  AUTOMATE  →  DEPLOY        │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                 AGNIHOTRI LABS // SYSTEM                    ║
+║                                                              ║
+║   AI SYSTEMS     SOFTWARE     AUTOMATION     SECURITY       ║
+║                                                              ║
+║                 STATUS: BUILDING                            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
