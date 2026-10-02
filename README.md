@@ -90,18 +90,6 @@ Exploring **AI · Machine Learning · Cybersecurity · Linux · Automation · De
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Agnihotri-Labs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Agnihotri-Labs&theme=tokyonight&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-</p>
-
----
-
 <p align="center">
 
 ### ⚡ Build. Automate. Secure.
